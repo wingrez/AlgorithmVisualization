@@ -45,7 +45,6 @@ public class AlgoFrame extends JFrame {
 
         public AlgoCanvas() {
             super(true);
-            System.out.println("aaaaa");
         }
 
         @Override
